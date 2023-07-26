@@ -1,7 +1,10 @@
 # Puerta-Correcta
 > Es un juego donde tienes que encontrar la llave y buscar cual es la puerta correcta sin chocar con los monstruos.
+> 
 > Es un juego de practica que desarrolle.
+> 
 > Su nombre seria Puerta Correcta o P-C.
+> 
 > Aun no esta terminado, lo actualizare cuando se me ocurra algun cambio o quiera probar algo de nuevo.
 
 ## Screenshots / Capturas de Pantalla
